@@ -1,4 +1,4 @@
-# Zynthian System Scripts & Configuration files
+ # Zynthian System Scripts & Configuration files
 
 [Zynthian](http://zynthian.org) is an Open Synth Platform based in Raspberry Pi, Linux (Raspbian) and Free Software Synthesizers (mostly).
 
